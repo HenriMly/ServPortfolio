@@ -1,0 +1,5 @@
+node_modules
+
+# classement (données du serveur)
+scores.json
+scores.json.tmp
